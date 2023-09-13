@@ -1,1 +1,2 @@
 # Verilog_Course_Report
+SureTrust_Digital Design Using Verilog_Course_Report
